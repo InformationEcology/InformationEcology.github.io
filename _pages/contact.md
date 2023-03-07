@@ -5,6 +5,7 @@ excerpt: ""The **Information Ecology** group aims to scale up the mechanistic un
 header:
   overlay_color: "#333"
 
+author_profile: false
 ---
 
 Address: \\
