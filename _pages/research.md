@@ -9,11 +9,11 @@ author_profile: true
 ![Research](assets/../../assets/images/InfoEcol.jpg)
 
 ## Publications
-**Zu, P.***, Garcia-Garcia, R., Schuman, M., Saavedra, S. and Melian, C. 2022. Plant-insect chemical communication in ecological communities: an information theory perspective. Journal of Systematics and Evolution https://doi.org/10.1111/jse.12841
+**Zu, P.***, Garcia-Garcia, R., Schuman, M., Saavedra, S. and Melian, C. 2022. Plant-insect chemical communication in ecological communities: an information theory perspective. Journal of Systematics and Evolution <https://doi.org/10.1111/jse.12841>
 
-Schwery, O*., Sipley, B., Braga, M. P., Yang, Y., Rebollo, R., & **Zu, P.***. 2022. Plant Scent and Plant‐Insect Interactions–Review and Outlook from a Macroevolutionary Perspective. Journal of Systematics and Evolution. https://doi.org/10.1111/jse.12933
+Schwery, O*., Sipley, B., Braga, M. P., Yang, Y., Rebollo, R., & **Zu, P.$*$**. 2022. Plant Scent and Plant‐Insect Interactions–Review and Outlook from a Macroevolutionary Perspective. Journal of Systematics and Evolution. <https://doi.org/10.1111/jse.12933>
 
-Saavedra, S.*, Bartomeus, I., Godoy, O., Rohr, R.P. and **Zu, P.** 2022. Towards a system-level causative knowledge of pollinator communities. Philosophical Transactions of the Royal Society B 377(1853). https://doi.org/10.1098/rstb.2021.0159 
+Saavedra, S.*, Bartomeus, I., Godoy, O., Rohr, R.P. and **Zu, P.** 2022. Towards a system-level causative knowledge of pollinator communities. Philosophical Transactions of the Royal Society B 377(1853). [link](https://doi.org/10.1098/rstb.2021.0159)
 
 JX. Fang, HC. Du, X. Shi, SF. Zhang, F. Liu, Z. Zhang, **P. Zu**, and XB. Kong. 2021. Monoterpenoid signals and their transcriptional responses to feeding and juvenile hormone regulations in bark beetle Ips hauseri Reitter. Journal of Experimental Biology 224(9):jeb238030  https://journals.biologists.com/jeb/article/224/9/jeb238030/238114/Monoterpenoid-signals-and-their-transcriptional
 
