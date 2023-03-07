@@ -1,6 +1,8 @@
 ---
 permalink: /resources/
 title: "Resources"
+classes: wide
+
 ---
 
 ## Classes

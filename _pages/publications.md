@@ -2,6 +2,8 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
+
 ---
 ## Paper highlight
 <img src="../assets/images/InformationArmsRace.jpg" width="800" alt="Information arms race">
