@@ -2,6 +2,8 @@
 title: "Information Ecology"
 permalink: /research/
 author_profile: true
+toc: true
+classes: wide
 ---
 
 ![Research](assets/../../assets/images/InfoEcol.jpg)
