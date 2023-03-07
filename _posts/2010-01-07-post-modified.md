@@ -18,16 +18,18 @@ tags:
 
 2021-12-01: Welcome Roberto H. Rebollo to join the project and being the first PhD student in my group! Warm welcome!
 
+2021-09-01: Dr. Pengjuan Zu started her Information Ecology group at Swiss Federal Institute of Technology (ETH) Zurich, hosted by Prof. Consuelo De Moraes at Biocommunication group.
+
 2021-02-08: PRIMA project is co-funded under RESPONSE scheme from European Union’s Horizon 2020 research and innovation program under the Marie Skłodowska-Curie.
 
 2021-01-19: Open PhD position available: see ETH website (link) or pdf file.
 
 2020-12-03: Horizons (The Swiss Research Magazine) interviewed me and highlighted my research. Check it out: Whispering trees, by Yvonne Vahlensieck.
 
-2020-12-01: I am starting my SNSF SPARK project "Predicting the formation of plant-herbivore interactions using information processing traits" at EAWAG.
+2020-12-01: Dr. P starting my SNSF SPARK project "Predicting the formation of plant-herbivore interactions using information processing traits" at EAWAG.
 
-2020-08-21: I am selected as an SNSF PRIMA grantee to start my group at Biocommunication group at Swiss Federal Institute of Technology (ETH) Zurich, Switzerland. Starting date: 2020-09-01. The opportunity for a PhD position on this project will be posted soon.
+2020-08-21: Dr. Pengjuan Zu is awarded with an SNSF (Swiss National Science Foundation) PRIMA grant  Switzerland.
 
-2020-08-20: I am awarded an SNSF SPARK grant hosted by Dr. Carlos Melian at Swiss Federal Institute of Aquatic Science and Technology (EAWAG), Switzerland.
+2020-08-20: Dr. Pengjuan Zu is awarded an SNSF SPARK grant hosted by Dr. Carlos Melian at Swiss Federal Institute of Aquatic Science and Technology (EAWAG), Switzerland.
 
 2020-06-19: Our recent publication on Science where we showed that information arms race explains plant-herbivore chemical communication in ecological communities.
