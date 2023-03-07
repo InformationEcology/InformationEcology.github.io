@@ -4,10 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## Paper highlight
-<img src="../assets/images/InformationArmsRace.jpg" width="400" alt="Information arms race">
+<img src="../assets/images/InformationArmsRace.jpg" width="800" alt="Information arms race">
 
-**Information arms race explains plant-herbivore chemical communication in ecological communities
-**
+**Information arms race explains plant-herbivore chemical communication in ecological communities**
+
 Zu P\*, Del-Val E, Boege K, Schuman M, Stevenson P, Alejandro Zaldivar-Riveron, Saavedra S. 2020 ***Science***    
 DOI: 10.1126/science.aba2965 
 
