@@ -3,6 +3,6 @@ permalink: /openpositions/
 title: "Open positions"
 ---
 
-## Field assistants
+For students who are interested in our projects, please feel free to contact us [InfoEcol(at)usys.ethz.ch]
 
-## Master thesis/Semester project
+## Student thesis/Semester project

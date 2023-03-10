@@ -16,11 +16,14 @@ I am interested in understanding the evolutionary and ecological processes of th
 <img src="../assets/images/Yan Yang.jpg" width="200" alt="Yan Yang">
 
 
-My research focuses on the chemical ecology of plant-insect interactions. By deciphering the chemical communication substances between plants at different altitudes and different functional groups of insects in various habitats, understand the chemical communication mechanism between plants and insects, to achieve the purpose of biodiversity conservation and restoration practices.
+My research focuses on the chemical ecology and plant-insect interactions. I study the patterns and aim to understand the underlying processes of plant-insect communication in various habitats (e.g., Alpine grassland, tropical/subtropical forests, agricultural fields). I hope to bring new insights on plant-insect network and further contribute to biodiversity conservation and restoration practices.
 
 ## Flurina Zahn (Bachelor student)
 <img src="../assets/images/Flurina Zahn.jpg" width="200" alt="Flurina Zahn">
 
+![FZahn](/assets/images/Flurina Zahn.jpg){: style="float: left"}
+
+my bachelor project is about .
 -----
 Past Students
 
