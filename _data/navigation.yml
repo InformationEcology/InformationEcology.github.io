@@ -5,9 +5,10 @@ main:
     url: /publications/
   - title: "Resources"
     url: /resources/  
-  - title: "Open positions"
-    url: /openpositions/
   - title: "People"
     url: /people/
+  - title: "Open positions"
+    url: /openpositions/
+
   - title: "Contact"
     url: /contact/
