@@ -9,6 +9,5 @@ main:
     url: /people/
   - title: "Open positions"
     url: /openpositions/
-
   - title: "Contact"
     url: /contact/

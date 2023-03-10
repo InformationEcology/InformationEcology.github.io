@@ -10,14 +10,14 @@ classes: wide
         <img src="../assets/images/PZu_2022_3.jpg" width="200" alt="Pengjuan Zu">
     </div>
     <div>
-        <p>I am interested in understanding the evolutionary and ecological processes of the chemical communication between plants and insects by integrating concepts from biology, chemistry and information theory.</p> <br>
-        <p><b>Current position</b>: SNSF PRIMA Group leader </p>
+        <p>I am interested in understanding the evolutionary and ecological processes of the chemical communication between plants and insects by integrating concepts from biology, chemistry and information theory.</p> 
+        <p><b>Current position</b>: SNSF PRIMA Group leader (2021- ) </p>
         <p><b>2012 - 2017 PhD </b>: University of Zurich, Switzerland </p>
         <p><b>2009 - 2011 MSc </b>: Uppsala University, Sweden </p>
         <p><b>2005 - 2009 BSc </b>: Beijing Normal University, China </p>
     </div>
 </div>
-</div> 
+<br>
 
 
 <div style="clear: both">
@@ -29,7 +29,7 @@ classes: wide
     <p>This is Roberto's intro</p>
 </div>
 </div>
-
+<br>
 
 <div style="clear: both">
 <h2>Dr. Yan Yang (Postdoc)</h2>
@@ -40,7 +40,7 @@ classes: wide
     <p>My research focuses on the chemical ecology and plant-insect interactions. I study the patterns and aim to understand the underlying processes of plant-insect communication in various habitats (e.g., Alpine grassland, tropical/subtropical forests, agricultural fields). I hope to bring new insights on plant-insect network and further contribute to biodiversity conservation and restoration practices.</p>
     </div>
 </div>
-
+<br>
 
 
 <div style="clear: both">
@@ -52,7 +52,7 @@ classes: wide
     <p>This is Flurina's intro</p>
  </div>
 </div>
-
+<br>
 
 <div style="clear: both">
 --------------
