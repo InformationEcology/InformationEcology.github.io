@@ -1,8 +1,8 @@
 ---
 title: "Information Ecology"
 permalink: /research/
-author_profile: false
-toc: true
+author_profile: true
+toc: false
 classes: wide
 ---
 
