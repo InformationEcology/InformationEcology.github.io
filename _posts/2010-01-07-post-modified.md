@@ -8,6 +8,8 @@ tags:
   - publication
   - fund
 ---
+2023-03-01: Welcome Flurina Zahn to do her bachelor thesis in the group!
+
 2022-11-15: Welcome Dr. Yan Yang to join the group for a postdoc supported by China Scholarship Council!
 
 2022-06-18: Welcome Dominic Stalder to join the group for a master semester project!
