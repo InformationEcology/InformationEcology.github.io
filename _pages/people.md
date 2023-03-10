@@ -10,11 +10,12 @@ classes: wide
         <img src="../assets/images/PZu_2022_3.jpg" width="200" alt="Pengjuan Zu">
     </div>
     <div>
-        <p>I am interested in understanding the evolutionary and ecological processes of the chemical communication between plants and insects by integrating concepts from biology, chemistry and information theory.</p> 
-        <p><b>Current position</b>: SNSF PRIMA Group leader (2021- ) </p>
-        <p><b>2012 - 2017 PhD </b>: University of Zurich, Switzerland </p>
-        <p><b>2009 - 2011 MSc </b>: Uppsala University, Sweden </p>
-        <p><b>2005 - 2009 BSc </b>: Beijing Normal University, China </p>
+        <p>I am interested in understanding the evolutionary and ecological processes of the chemical communication between plants and insects by integrating concepts from biology, chemistry and information theory.</p>
+        <ul>
+        <li><p><b>Current position</b>: SNSF PRIMA Group leader (2021- )</p></li>
+        <li><p><b>2012 - 2017 PhD </b>: University of Zurich, Switzerland </p></li>
+        <li><p><b>2009 - 2011 MSc </b>: Uppsala University, Sweden </p></li>
+        <li><p><b>2005 - 2009 BSc </b>: Beijing Normal University, China </p></li>
     </div>
 </div>
 <br>
