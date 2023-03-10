@@ -16,7 +16,7 @@ The **Information Ecology** group aims to scale up the mechanistic understanding
 
 ## Research topics
 ### (I) Chemical communication between plants and pollinators in apine grassland communities
-<img src="../assets/images/Calanda.JPG" height="400" width="800" alt="Calanda field">
+![Calanda field](assets/../../assets/images/Calanda.JPG)
 
 Alpine grasslands are species rich communities and provide valuable resources for alpine pollinators. However, global warming may strongly affect the diversity of plants and insects and their interaction networks. This project aims to study the patterns of chemical communications in plant-insect networks and develop a novel theoretical framework to tackle the roles of chemical information in mediating species interactions in ecological communities and how they may get affected by climate changes. 
 
