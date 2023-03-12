@@ -27,9 +27,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -46,6 +46,33 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -61,25 +88,26 @@ author:
             Zu Group (ETH Zurich)"
   avatar : "/assets/images/infinity.png"
   bio    : "We aim to integrate information theory into ecological and evolutionary theories, to gain mechanistic understanding on species interactions in ecological communities."
+  location: "ETH Zurich, Switzerland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://informationecology.github.io/research/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/PengjuanZ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/InformationEcology"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/PengjuanZ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/InformationEcology"
 
 defaults:
   # _posts
@@ -87,7 +115,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: multiple
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -101,9 +129,35 @@ defaults:
       layout: single
       author_profile: true
 
+
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
+picture:
+  source: "assets/images" #"assets/images"
+  output: "assets/images"
+  markup: "picture"
+  presets:
+    hero:
+      attr:
+        class: "page__hero-image"
+        itemprop: "image"
+      ppi: [1]
+      source_1600:
+        media: "(min-width: 1600px)"
+        width: "1600"
+      source_1024:
+        media: "(min-width: 1024px)"
+        width: "1024"
+      source_768:
+        media: "(min-width: 768px)"
+        width: "768"
+      source_600:
+        media: "(min-width: 600px)"
+        width: "600"
+      source_default:
+        width: "320"
