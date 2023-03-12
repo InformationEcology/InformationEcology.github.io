@@ -56,8 +56,14 @@ classes: wide
 </div>
 <br>
 
+
+
 <div style="clear: both">
---------------
-<h2>Past Students</h2>
-<p>Dominic Stalder (Master student, 2022)<p>
+<h3>Past Students</h3>
+<p>Dominic Stalder (Master student, 2022)
+</p>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/DStalder.jpg" width="200" alt="Picture name">
+ </div>
+
 </div>
