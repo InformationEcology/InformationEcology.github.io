@@ -1,6 +1,6 @@
 ---
 title: "News"
-last_modified_at: 2023-02-19T16:20:02-05:00
+last_modified_at: 2023-02-19
 categories:
   - News
 tags:
