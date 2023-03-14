@@ -8,7 +8,7 @@ title: "Contact"
 # author_profile: false
 ---
 
-Address: \\
+<ins>Address:</ins> \\
 Swiss Federal Institute of Technology (ETH) Zurich \\
 Department of Environmental Systems Science \\
 LFO-G floor, Schmelzbergstrasse 9 \\
