@@ -21,6 +21,6 @@ OKEE (Open Knowledge EcolEvol) Workshops
 ## Talks and posters
 
 ## Other resources
-### The **Information Ecology Group** is hosted by Prof. Consuelo De Moraes and her [Biocommunication Group](https://biocommunication.ethz.ch/)
+- The **Information Ecology Group** is hosted by Prof. Consuelo De Moraes and her [**Biocommunication Group**](https://biocommunication.ethz.ch/)
 
-### [Entomological Collection ETH Zurich](https://biocommunication.ethz.ch/entomological-collection.html)
+- [**Entomological Collection ETH Zurich**](https://biocommunication.ethz.ch/entomological-collection.html)
