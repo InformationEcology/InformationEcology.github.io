@@ -24,3 +24,6 @@ OKEE (Open Knowledge EcolEvol) Workshops
 - The **Information Ecology Group** is hosted by Prof. Consuelo De Moraes and her [**Biocommunication Group**](https://biocommunication.ethz.ch/)
 
 - [**Entomological Collection ETH Zurich**](https://biocommunication.ethz.ch/entomological-collection.html)
+
+- [**Synthesizing and dating phylogenies using the Open Tree of Life, SSB UNAM 2023**](
+https://opentreeoflife.github.io/SSBworkshop2023/#Installation%20checks)
