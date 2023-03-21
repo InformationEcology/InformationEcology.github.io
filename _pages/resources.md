@@ -13,7 +13,7 @@ OKEE (Open Knowledge EcolEvol) Workshops
 
 | Date       |           Topic           |       Speaker       | Materials |
 | --- | --- | --- | --- |
-| 2023-01-04 | Phylogenetic methods in R (part I)| Dr. Orlando Schwery |       tba |
+| 2023-01-04 | Phylogenetic methods in R (part I)| Dr. Orlando Schwery |  [Materials](https://oschwery.github.io/OKEE2023) |
 | 2023-02-20 | Phylogenetic methods in R (Part II) | Dr. Orlando Schwery | tba |
 | 2023-02-21 | GC-MS data analysis workshop (Part I)| Dr. Danielle Lucas-Barbosa| tba|
 | 2023-03-21 | GC-MS data analysis workshop (Part II)| Dr. Danielle Lucas-Barbosa| tba|
