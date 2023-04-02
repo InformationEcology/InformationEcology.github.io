@@ -22,12 +22,12 @@ classes: wide
 
 
 <div style="clear: both">
-<h2>Roberto H. Rebollo (PhD student)</h2>
+<h2>Roberto Rebollo H.(PhD student)</h2>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/bio-photo.jpg" width="200" alt="Picture name">
+    <img src="../assets/images/Picture_Roberto_RH.jpg" width="200" alt="Roberto Rebollo H.">
 </div>
 <div>    
-    <p>This is Roberto's intro</p>
+    <p> My main interests are plant-insect interactions, chemical communication and community ecology. I conduct fieldwork in alpine meadows in eastern Switzerland, characterise the chemical traits of plants, and study how chemical traits shape interaction networks. </p>
 </div>
 </div>
 <br>
