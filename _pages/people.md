@@ -44,17 +44,17 @@ classes: wide
 </div>
 <br>
 
-
 <div style="clear: both">
-<h2>Flurina Zahn (Bachelor student)</h2>
+<h2>Lea Stern (Bachelor student)</h2>
  <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/Flurina Zahn.jpg" width="200" alt="Picture name">
+    <img src="../assets/images/Lea Stern.jpg" width="200" alt="Picture name">
  </div>
  <div>    
-    <p>This is Flurina's intro</p>
+    <p> My bachelor thesis addresses the question about how flower nectar sugars of alpine grassland communities in Switzerland are influenced by the pollinators, their phylogenetic relationship and the environmental factor (altitude).</p>
  </div>
 </div>
 <br>
+
 
 
 
@@ -65,5 +65,16 @@ classes: wide
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/DStalder.JPG" width="200" alt="Dominic Stalder">
  </div>
+
+<div style="clear: both">
+<h3>Flurina Zahn (Bachelor student, 2023)</h3>
+ <div style="float: left; margin-right: 20px">
+    <img src="../assets/images/Flurina Zahn.jpg" width="200" alt="Picture name">
+ </div>
+ <div>    
+    <p></p>
+ </div>
+</div>
+<br>
 
 </div>
