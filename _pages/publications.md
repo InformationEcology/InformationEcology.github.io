@@ -21,6 +21,13 @@ Plants emit an extraordinary diversity of chemicals, providing information about
 <[Full paper](https://www.dropbox.com/s/m7zgehtp6ybzors/Zu_etal_2020_Science.pdf?dl=0)>		<[Perspective by Ricard Solé](https://www.dropbox.com/s/hjdy334tc5ciak9/Sole_2020_Perspectivel.pdf?dl=0)> <[Science](https://www.science.org/doi/10.1126/science.abc6344)>
 
 ## Peer Reviewed Papers
+### 2023
+**Zu, P.***, Zhang, D.Y. and Luo, Y.B., 2023. Chemical communication between plants and insects. ***Journal of Systematics and Evolution***, 61(3), 441-444. [link](https://doi.org/10.1111/jse.12955)
+
+
+Warrit, N., Ascher, J., Basu, P.,... & **Zu, P.**, Orr, M.*, 2023. Opportunities and challenges in Asian bee research and conservation. ***Biological Conservation***, 110173. [link](https://doi.org/10.1016/j.biocon.2023.110173)
+
+
 ### 2022
 **Zu, P.***, Garcia-Garcia, R., Schuman, M., Saavedra, S. and Melian, C. 2022. Plant-insect chemical communication in ecological communities: an information theory perspective. ***Journal of Systematics and Evolution***. [link](https://doi.org/10.1111/jse.12841)
 
