@@ -12,11 +12,11 @@ Potential projects involve with flower color, flower scent, nectar and pollen da
 
 
 ### 2. Flower traits and pollination network of buchwheat
-We will continue the project this year (2024, though in the ad it says 2023)! Get in touch if you are interested in :)
+We will continue the project on buckwheat this year! Get in touch if you are interested in :)
 
-<object data="../assets/pdf/Ad_buckwheat_master_2023.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../assets/pdf/Ad_buckwheat_master_2023.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/pdf/Ad_buckwheat_master_2023.pdf">Download PDF</a>.</p>
+<object data="../assets/pdf/Advertise_buckwheat_2024.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../assets/pdf/Advertise_buckwheat_2024.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/pdf/Advertise_buckwheat_2024.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
