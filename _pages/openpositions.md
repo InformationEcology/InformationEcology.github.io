@@ -6,6 +6,13 @@ classes: wide
 
 For students who are interested in our projects, please feel free to contact us [InfoEcol(at)usys.ethz.ch]
 
+## Research assistants (Hourly paid)
+You will gain:
+- Skills on collecting flower scent, measuring flower color
+- Pollinator observations
+- Nectar and pollen collection and chemical analysis 
+
+
 ## Student thesis/Semester project
 ### 1. Deciphering plant-insec communication
 Potential projects involve with flower color, flower scent, nectar and pollen data, and plant-insect interaction network analyses.
