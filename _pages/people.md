@@ -12,11 +12,13 @@ classes: wide
     </div>
     <div>
         <p>I am interested in understanding the evolutionary and ecological processes of the chemical communication between plants and insects by integrating concepts from biology, chemistry and information theory.</p>
+        <div>
             <p class="small"> Assistant Professor, University of Neuchatel  (2025 - ) </p>
             <p class="small"><b>Current position</b>: SNSF PRIMA Group leader (2021 - ) </p>
             <p class="small"><b>2012 - 2017 PhD </b>: University of Zurich, Switzerland </p>
             <p class="small"><b>2009 - 2011 MSc </b>: Uppsala University, Sweden </p>
             <p class="small"><b>2005 - 2009 BSc </b>: Beijing Normal University, China </p>
+        </div>
     </div>
 </div>
 <br>
