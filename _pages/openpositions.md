@@ -6,9 +6,10 @@ classes: wide
 
 For students and researchers who are interested in our projects, please feel free to contact us [InfoEcol(at)usys.ethz.ch]
 
-## Postdoc positions available: theoretical study on plant-insect chemical communication in ecological communities. Interested candidates are encouraged to reach out for more details!
+## > Postdoc positions available: 
+theoretical study on plant-insect chemical communication in ecological communities. Interested candidates are encouraged to reach out for more details!
 
-## 2 PhD positions available!
+## > 2 PhD positions available!
 
 <object data="../assets/pdf/PHD_SusAgr_UniNE_2025.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../assets/pdf/Advertise_buckwheat_2024.pdf">
