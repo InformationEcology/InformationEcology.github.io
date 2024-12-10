@@ -9,7 +9,9 @@ For students and researchers who are interested in our projects, please feel fre
 ## > Postdoc positions available: 
 theoretical study on plant-insect chemical communication in ecological communities. Interested candidates are encouraged to reach out for more details!
 
-## > 2 PhD positions available!
+
+Archive: past projects
+## > 2 PhD positions available! (Expired)
 
 <object data="../assets/pdf/PHD_SusAgr_UniNE_2025.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../assets/pdf/Advertise_buckwheat_2024.pdf">
@@ -18,8 +20,6 @@ theoretical study on plant-insect chemical communication in ecological communiti
 </object>
 
 
-
-Archive: past projects
 
 ## Research assistants (Hourly paid)
 You will gain:
