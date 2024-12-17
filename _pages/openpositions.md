@@ -6,12 +6,17 @@ classes: wide
 
 For students and researchers who are interested in our projects, please feel free to contact us [InfoEcol(at)usys.ethz.ch]
 
-## > Postdoc positions available: 
+## Open positions
+### Master thesis projects at University of Neuchâtel (UniNe) 2025-2026
+
+
+
+## Archive: past projects
+
+## Postdoc positions available: 
 theoretical study on plant-insect chemical communication in ecological communities. Interested candidates are encouraged to reach out for more details!
 
-
-Archive: past projects
-## > 2 PhD positions available! (Expired)
+### 2 PhD positions available! (Expired)
 
 <object data="../assets/pdf/PHD_SusAgr_UniNE_2025.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../assets/pdf/Advertise_buckwheat_2024.pdf">
@@ -21,7 +26,7 @@ Archive: past projects
 
 
 
-## Research assistants (Hourly paid)
+### Research assistants (Hourly paid)
 You will gain:
 - Skills on collecting flower scent, measuring flower color
 - Pollinator observations

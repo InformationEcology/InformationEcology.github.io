@@ -86,10 +86,10 @@ plugins:
 author:
   name   : "Information Ecology  
   
-            Zu Group (ETH Zurich)"
+            Zu Group"
   avatar : "/assets/images/infinity.png"
   bio    : "We aim to integrate information theory into ecological and evolutionary theories, to gain mechanistic understanding on species interactions in ecological communities."
-  location: "ETH Zurich, Switzerland"
+  location: "ETH Zurich/University of Neuchâtel, Switzerland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
