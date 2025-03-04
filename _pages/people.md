@@ -23,6 +23,17 @@ classes: wide
 </div>
 <br>
 
+<div style="clear: both">
+<h2> Jérôme Cavailles (Postdoc researcher)</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/" width="200" alt="Jérôme Cavailles">
+</div>
+<div>    
+    <p>  </p>
+</div>
+</div>
+<br>
+
 
 <div style="clear: both">
 <h2>Roberto Rebollo H.(PhD student)</h2>
