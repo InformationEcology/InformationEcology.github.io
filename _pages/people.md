@@ -26,10 +26,10 @@ classes: wide
 <div style="clear: both">
 <h2> Jérôme Cavailles (Postdoc researcher)</h2>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/" width="200" alt="Jérôme Cavailles">
+    <img src="../assets/images/JeromeC.JPG" width="200" alt="Jérôme Cavailles">
 </div>
 <div>    
-    <p>  </p>
+    <p> I am interested in developing theoretical frameworks to better understand ecosystem dynamics. In particular, I apply information theory to study species interactions and ecological networks. By using mathematical models to formalize ecological processes and the flow of information within these networks, I aim to explore the principles governing self-organization, resilience, and adaptation in ecology and beyond. <[My blog](https://interactionintegration.org)> </p>
 </div>
 </div>
 <br>
@@ -48,6 +48,9 @@ classes: wide
 
 
 <div style="clear: both">
+<h3>Past Students</h3>
+
+<div style="clear: both">
 <h2>Dr. Yan Yang (Postdoc)</h2>
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Yan Yang.jpg" width="200" alt="Yan Yang">
@@ -59,7 +62,7 @@ classes: wide
 <br>
 
 <div style="clear: both">
-<h2>Lea Stern (Bachelor student)</h2>
+<h2>Lea Stern (Bachelor student, 2023-2024)</h2>
  <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Lea Stern.jpg" width="200" alt="Picture name">
  </div>
@@ -72,8 +75,7 @@ classes: wide
 
 
 
-<div style="clear: both">
-<h3>Past Students</h3>
+
 <p>Dominic Stalder (Master student, 2022)
 </p>
 <div style="float: left; margin-right: 20px">
