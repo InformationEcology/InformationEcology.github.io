@@ -29,7 +29,8 @@ classes: wide
     <img src="../assets/images/JeromeC.JPG" width="200" alt="Jérôme Cavailles">
 </div>
 <div>    
-    <p> I am interested in developing theoretical frameworks to better understand ecosystem dynamics. In particular, I apply information theory to study species interactions and ecological networks. By using mathematical models to formalize ecological processes and the flow of information within these networks, I aim to explore the principles governing self-organization, resilience, and adaptation in ecology and beyond. <[My blog](https://interactionintegration.org)> </p>
+    <p> I am interested in developing theoretical frameworks to better understand ecosystem dynamics. In particular, I apply information theory to study species interactions and ecological networks. By using mathematical models to formalize ecological processes and the flow of information within these networks, I aim to explore the principles governing self-organization, resilience, and adaptation in ecology and beyond.</p> 
+    <p><a href="https://interactionintegration.org">My Blog</a></p>
 </div>
 </div>
 <br>
