@@ -37,7 +37,7 @@ classes: wide
 
 
 <div style="clear: both">
-<h2>Roberto Rebollo H.(PhD student)</h2>
+<h2>Roberto Rebollo H.(PhD student, 2021.11 - )</h2>
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Picture_Roberto_RH.jpg" width="200" alt="Roberto Rebollo H.">
 </div>
@@ -52,7 +52,7 @@ classes: wide
 <h3>Past Students</h3>
 
 <div style="clear: both">
-<h2>Dr. Yan Yang (Postdoc)</h2>
+<h2>Dr. Yan Yang (Postdoc, 2022 - 2024)</h2>
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Yan Yang.jpg" width="200" alt="Yan Yang">
 </div>
