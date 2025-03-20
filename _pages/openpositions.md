@@ -4,7 +4,7 @@ title: "Open positions"
 classes: wide
 ---
 
-For students and researchers who are interested in our projects, please feel free to contact us [InfoEcol(at)usys.ethz.ch]
+For students and researchers who are interested in our projects, please feel free to contact us.
 
 ## Open positions
 ### Master thesis projects at University of Neuchâtel (UniNe) 2025-2026
