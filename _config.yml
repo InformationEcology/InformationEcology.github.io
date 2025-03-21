@@ -89,7 +89,7 @@ author:
             Zu Group"
   avatar : "/assets/images/infinity.png"
   bio    : "We aim to integrate information theory into ecological and evolutionary theories, to gain mechanistic understanding on species interactions in ecological communities."
-  location: "ETH Zurich/University of Neuchâtel, Switzerland"
+  location: "University of Neuchâtel, Switzerland/ETH Zurich"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
