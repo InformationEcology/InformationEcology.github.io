@@ -93,7 +93,7 @@ classes: wide
 
 
 <div style="clear: both">
-<h1>Alumi</h3>
+<h1>Alumi</h1>
 
 <div style="clear: both">
 <h3>Dr. Yan Yang (Postdoc, 2022 - 2024)</h3>
