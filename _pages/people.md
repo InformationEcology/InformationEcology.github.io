@@ -47,12 +47,56 @@ classes: wide
 </div>
 <br>
 
+<div style="clear: both">
+<h2>G. Kofi Ahadjie (PhD student, 2025.04 - )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/bio-photo.jpg" width="200" alt="Kofi">
+</div>
+<div>    
+    <p> My research interests broadly lie in the ecology and evolution of multi-trophic interactions. In pursuit of this, I have studied how chemo-ecologically mediated cues shape the behaviour and physiology of interacting plants and insects, and how these cues influence host selection and specialization in herbivores, pollinators, and their natural enemies. Currently, my research focuses on chemical communication between plants and insects in agricultural ecological communities, combining both empirical and theoretical approache </p>
+</div>
+</div>
+<br>
 
 <div style="clear: both">
-<h3>Past Students</h3>
+<h2>Subidsha Gnanaseelan (Master student, 2025 - )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/bio-photo.jpg" width="200" alt="Subi">
+</div>
+<div>    
+    <p> Flower-bumblebee interactions in urban areas </p>
+</div>
+</div>
+<br>
 
 <div style="clear: both">
-<h2>Dr. Yan Yang (Postdoc, 2022 - 2024)</h2>
+<h2> Eleonora Maccanelli (Bachelor student, 2025 - )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/bio-photo.jpg" width="200" alt="">
+</div>
+<div>    
+    <p>  </p>
+</div>
+</div>
+<br>
+
+<div style="clear: both">
+<h2> Victor Kuznetsov (Civil Service, 2025.04.28 - )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/bio-photo.jpg" width="200" alt="">
+</div>
+<div>    
+    <p>  </p>
+</div>
+</div>
+<br>
+
+
+<div style="clear: both">
+<h1>Alumi</h3>
+
+<div style="clear: both">
+<h3>Dr. Yan Yang (Postdoc, 2022 - 2024)</h3>
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Yan Yang.jpg" width="200" alt="Yan Yang">
 </div>
@@ -63,7 +107,7 @@ classes: wide
 <br>
 
 <div style="clear: both">
-<h2>Lea Stern (Bachelor student, 2023-2024)</h2>
+<p>Lea Stern (Bachelor student, 2023-2024)</p>
  <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Lea Stern.jpg" width="200" alt="Picture name">
  </div>
@@ -76,7 +120,7 @@ classes: wide
 
 
 
-
+<div style="clear: both">
 <p>Dominic Stalder (Master student, 2022)
 </p>
 <div style="float: left; margin-right: 20px">
@@ -84,7 +128,7 @@ classes: wide
  </div>
 
 <div style="clear: both">
-<h3>Flurina Zahn (Bachelor student, 2023)</h3>
+<p>Flurina Zahn (Bachelor student, 2023)</p>
  <div style="float: left; margin-right: 20px">
     <img src="../assets/images/Flurina Zahn.jpg" width="200" alt="Picture name">
  </div>
