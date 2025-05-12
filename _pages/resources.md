@@ -18,7 +18,9 @@ OKEE (Open Knowledge EcolEvol) Workshops
 | 2023-02-21 | GC-MS data analysis workshop (Part I)| Dr. Danielle Lucas-Barbosa| tba|
 | 2023-03-21 | GC-MS data analysis workshop (Part II)| Dr. Danielle Lucas-Barbosa| tba|
 
-## Talks and posters
+## Media & Outreach
+- UniNe News on our research: https://www.unine.ch/biologie/actualite/les-mathematiques-pour-comprendre-les-interactions-plantes-insectes
+- Nectar collection: Cover picture on Plant Science Center: https://www.plantsciences.uzh.ch/dam/jcr:7ceb9d76-1531-471c-9390-b0bbe52d33ae/PSC_Newsletter_47%20spring%202025%5B1%5D.pdf 
 
 ## Other resources
 - The **Information Ecology Group** is hosted by Prof. Consuelo De Moraes and her [**Biocommunication Group**](https://biocommunication.ethz.ch/)
