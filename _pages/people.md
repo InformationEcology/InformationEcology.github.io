@@ -24,6 +24,18 @@ classes: wide
 <br>
 
 <div style="clear: both">
+<h2> Amélie Kirchhofer (Lab manager)</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/Amelie.jpg" width="200" alt="Jérôme Cavailles">
+</div>
+<div>    
+    <p> </p>
+</div>
+</div>
+<br>
+
+
+<div style="clear: both">
 <h2> Jérôme Cavailles (Postdoc researcher)</h2>
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/JeromeC.JPG" width="200" alt="Jérôme Cavailles">
@@ -54,6 +66,17 @@ classes: wide
 </div>
 <div>    
     <p> My research interests broadly lie in the ecology and evolution of multi-trophic interactions. In pursuit of this, I have studied how chemo-ecologically mediated cues shape the behaviour and physiology of interacting plants and insects, and how these cues influence host selection and specialization in herbivores, pollinators, and their natural enemies. Currently, my research focuses on chemical communication between plants and insects in agricultural ecological communities, combining both empirical and theoretical approache </p>
+</div>
+</div>
+<br>
+
+<div style="clear: both">
+<h2>Song Ju (PhD student, 2025.07 - )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/bio-photo.jpg" width="200" alt="Kofi">
+</div>
+<div>    
+    <p> Community-level plant volatiles and plant-insect interaction network </p>
 </div>
 </div>
 <br>
@@ -91,6 +114,29 @@ classes: wide
 </div>
 <br>
 
+<div style="clear: both">
+<h1>Key collaborators</h1>
+
+<div style="clear: both">
+<h3>Prof. Betty Benrey</h3>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/Benrey_Betty.jpg" width="200" alt="Yan Yang">
+</div>
+<div>
+<p><a href="https://ento.psu.edu/directory/bvb5821">Website link</a></p>    </div>
+</div>
+<br>
+
+<div style="clear: both">
+<h3>Prof. Ek del Val</h3>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/Ek_delVal.png"  width="200" alt="Yan Yang">
+</div>
+<div>
+<p><a href="https://www.iies.unam.mx/investigacion/perfiles-investigadores/ek-del-val-de-gortari/">Website link</a></p>    </div>
+</div>
+<br>
+
 
 <div style="clear: both">
 <h1>Alumi</h1>
@@ -98,7 +144,7 @@ classes: wide
 <div style="clear: both">
 <h3>Dr. Yan Yang (Postdoc, 2022 - 2024)</h3>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/Yan Yang.jpg" width="200" alt="Yan Yang">
+    <img src="../assets/images/Yan Yang.jpg"width="200" alt="Yan Yang">
 </div>
 <div>
     <p>My research focuses on the chemical ecology and plant-insect interactions. I study the patterns and aim to understand the underlying processes of plant-insect communication in various habitats (e.g., Alpine grassland, tropical/subtropical forests, agricultural fields). I hope to bring new insights on plant-insect network and further contribute to biodiversity conservation and restoration practices.</p>
