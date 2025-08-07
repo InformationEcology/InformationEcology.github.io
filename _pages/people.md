@@ -92,27 +92,6 @@ classes: wide
 </div>
 <br>
 
-<div style="clear: both">
-<h2> Eleonora Maccanelli (Bachelor student, 2025 - )</h2>
-<div style="float: left; margin-right: 20px">
-    <img src="../assets/images/bio-photo.jpg" width="200" alt="">
-</div>
-<div>    
-    <p>  </p>
-</div>
-</div>
-<br>
-
-<div style="clear: both">
-<h2> Victor Kuznetsov (Civil Service, 2025.04.28 - )</h2>
-<div style="float: left; margin-right: 20px">
-    <img src="../assets/images/bio-photo.jpg" width="200" alt="">
-</div>
-<div>    
-    <p>  </p>
-</div>
-</div>
-<br>
 
 <div style="clear: both">
 <h1>Key collaborators</h1>
@@ -181,6 +160,24 @@ classes: wide
  <div>    
     <p></p>
  </div>
+</div>
+<br>
+
+<div style="clear: both">
+<h2> Eleonora Maccanelli (Bachelor student, 2025.04 - 06 )</h2>
+
+<div>    
+    <p>  </p>
+</div>
+</div>
+<br>
+
+<div style="clear: both">
+<h2> Victor Kuznetsov (Civil Service, 2025.04.28 - 07.31)</h2>
+
+<div>    
+    <p>  </p>
+</div>
 </div>
 <br>
 
