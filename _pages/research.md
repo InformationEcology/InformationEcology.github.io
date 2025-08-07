@@ -32,7 +32,10 @@ We use field sites of alpine grasslands at different elevations at the Calanda (
 - Plant-pollinator network construction
 
 ### (II) Agroecosystems
-**II-1 Milpa** (Three sister systems with maize, beans, squash, etc. polyculture)
+**II-1 Milpa** (Three sister systems with maize, beans, squash, etc. polyculture) 
+
+Collaborators: Betty Benrey, Ek del Val
+
 ![Milpa](assets/../../assets/images/milpa_sketch.png)
 
 Agricultural ecosystems, or agroecosystems, dominate many landscapes around the globe, feeding the burgeoning human population but threatening the biodiversity and often referred as “green deserts". With the growing concerns about biodiversity loss and its potentially disastrous consequences on ecosystem functioning and stability, we are under an urgent call for innovations in agricultural sustainability. 
