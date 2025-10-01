@@ -59,21 +59,13 @@ classes: wide
 </div>
 <br>
 
-<div style="clear: both">
-<h2>G. Kofi Ahadjie (PhD student, 2025.04 - )</h2>
-<div style="float: left; margin-right: 20px">
-    <img src="../assets/images/bio-photo.jpg" width="200" alt="Kofi">
-</div>
-<div>    
-    <p> My research interests broadly lie in the ecology and evolution of multi-trophic interactions. In pursuit of this, I have studied how chemo-ecologically mediated cues shape the behaviour and physiology of interacting plants and insects, and how these cues influence host selection and specialization in herbivores, pollinators, and their natural enemies. Currently, my research focuses on chemical communication between plants and insects in agricultural ecological communities, combining both empirical and theoretical approache </p>
-</div>
-</div>
+
 <br>
 
 <div style="clear: both">
 <h2>Song Ju (PhD student, 2025.07 - )</h2>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/bio-photo.jpg" width="200" alt="Kofi">
+    <img src="../assets/images/SongJu.jpg" width="200" alt="Kofi">
 </div>
 <div>    
     <p> Community-level plant volatiles and plant-insect interaction network </p>
@@ -84,7 +76,7 @@ classes: wide
 <div style="clear: both">
 <h2>Subidsha Gnanaseelan (Master student, 2025 - )</h2>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/bio-photo.jpg" width="200" alt="Subi">
+    <img src="../assets/images/Subi.png" width="200" alt="Subi">
 </div>
 <div>    
     <p> Flower-bumblebee interactions in urban areas </p>
