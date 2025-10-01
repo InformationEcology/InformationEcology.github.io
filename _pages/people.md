@@ -115,7 +115,7 @@ classes: wide
 <div style="clear: both">
 <h3>Dr. Yan Yang (Postdoc, 2022 - 2024)</h3>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/Yan Yang.jpg"width="200" alt="Yan Yang">
+    <img src="../assets/images/YanYang.jpg"width="200" alt="Yan Yang">
 </div>
 <div>
     <p>My research focuses on the chemical ecology and plant-insect interactions. I study the patterns and aim to understand the underlying processes of plant-insect communication in various habitats (e.g., Alpine grassland, tropical/subtropical forests, agricultural fields). I hope to bring new insights on plant-insect network and further contribute to biodiversity conservation and restoration practices.</p>
