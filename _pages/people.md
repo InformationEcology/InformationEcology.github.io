@@ -65,13 +65,25 @@ classes: wide
 <div style="clear: both">
 <h2>Song Ju (PhD student, 2025.07 - )</h2>
 <div style="float: left; margin-right: 20px">
-    <img src="../assets/images/SongJu.jpg" width="200" alt="Kofi">
+    <img src="../assets/images/SongJu.jpg" width="200" alt="Song">
 </div>
 <div>    
     <p> Community-level plant volatiles and plant-insect interaction network </p>
 </div>
 </div>
 <br>
+
+<div style="clear: both">
+<h2> Ahmed Nehdi (PhD student, 2025.12 - )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/AhmedN.jpg" width="200" alt="Ahmed">
+</div>
+<div>    
+    <p> Flower-Bee interactions at community level, Chemical ecology </p>
+</div>
+</div>
+<br>
+
 
 <div style="clear: both">
 <h2>Subidsha Gnanaseelan (Master student, 2025 - )</h2>
