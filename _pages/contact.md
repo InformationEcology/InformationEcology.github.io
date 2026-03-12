@@ -11,7 +11,7 @@ title: "Contact"
 Institute of Biology \\
 University of Neuchatel \\
 Rue Emile-Argand 11 \\
-2000 Neuchâtel \\
+2000 Neuchâtel 
 
 Office: D117 \\
 Email: Pengjuan.zu[at]unine.ch 
