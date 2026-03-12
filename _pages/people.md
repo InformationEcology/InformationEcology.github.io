@@ -96,6 +96,16 @@ classes: wide
 </div>
 <br>
 
+<div style="clear: both">
+<h2>SAnnaïck Tronel (Intern, 2026 -  )</h2>
+<div style="float: left; margin-right: 20px">
+    <img src="../assets/images/AnnaickTronel.png" width="200" alt="Annaick">
+</div>
+<div>    
+    <p> Chemical Ecology </p>
+</div>
+</div>
+<br>
 
 <div style="clear: both">
 <h1>Key collaborators</h1>
