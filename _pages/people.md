@@ -97,7 +97,7 @@ classes: wide
 <br>
 
 <div style="clear: both">
-<h2>SAnnaïck Tronel (Intern, 2026 -  )</h2>
+<h2>Annaïck Tronel (Intern, 2026 -  )</h2>
 <div style="float: left; margin-right: 20px">
     <img src="../assets/images/AnnaickTronel.png" width="200" alt="Annaick">
 </div>
